@@ -1,0 +1,47 @@
+ManifestFileVersion: 0
+CRC: 4053414872
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 37b9d91a392a241b8435e036b23688d2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c90fc19e2679e5295d10bd00f33cb4c3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Packages/com.unity.postprocessing/PostProcessing/Textures/Blue Noise 64px/LDR_LLL1_2.png
+- Packages/com.unity.postprocessing/PostProcessing/Textures/Blue Noise 64px/LDR_LLL1_23.png
+- Packages/com.unity.postprocessing/PostProcessing/Textures/Blue Noise 64px/LDR_LLL1_36.png
+- Packages/com.unity.postprocessing/PostProcessing/Textures/Blue Noise 64px/LDR_LLL1_61.png
+- Packages/com.unity.postprocessing/PostProcessing/Textures/Blue Noise 64px/LDR_LLL1_55.png
+- Packages/com.unity.postprocessing/PostProcessing/Textures/Blue Noise 64px/LDR_LLL1_30.png
+- Packages/com.unity.postprocessing/PostProcessing/Textures/Blue Noise 64px/LDR_LLL1_8.png
+- Packages/com.unity.postprocessing/PostProcessing/Textures/Blue Noise 256px/LDR_LLL1_5.png
+- Packages/com.unity.postprocessing/PostProcessing/Textures/Blue Noise 64px/LDR_LLL1_0.png
+- Packages/com.unity.postprocessing/PostProcessing/Textures/Blue Noise 256px/LDR_LLL1_2.png
+- Packages/com.unity.postprocessing/PostProcessing/Textures/Blue Noise 64px/LDR_LLL1_19.png
+- Packages/com.unity.postprocessing/PostProcessing/Textures/Blue Noise 64px/LDR_LLL1_20.png
+- Packages/com.unity.postprocessing/PostProcessing/Textures/Blue Noise 64px/LDR_LLL1_10.png
+- Packages/com.unity.postprocessing/PostProcessing/Textures/Blue Noise 256px/LDR_LLL1_6.png
+- Packages/com.unity.postprocessing/PostProcessing/Textures/Blue Noise 64px/LDR_LLL1_44.png
+- Packages/com.unity.postprocessing/PostProcessing/Gizmos/PostProcessLayer.png
+- Assets/Oculus/SampleFramework/Core/DebugUI/Textures/button9slice.png
+- Packages/com.unity.postprocessing/PostProcessing/Textures/Blue Noise 64px/LDR_LLL1_54.png
+- Packages/com.unity.postprocessing/PostProcessing/Textures/Blue Noise 256px/LDR_LLL1_4.png
+- Packages/com.unity.postprocessing/PostProcessing/Textures/Blue Noise 256px/LDR_LLL1_3.png
+- Packages/com.unity.postprocessing/PostProcessing/Textures/Blue Noise 64px/LDR_LLL1_48.png
+- Packages/com.unity.postprocessing/PostProcessing/Textures/Blue Noise 64px/LDR_LLL1_50.png
+- Packages/com.unity.postprocessing/PostProcessing/Textures/Blue Noise 64px/LDR_LLL1_37.png
+- Packages/com.unity.postprocessing/PostProcessing/Textures/Blue Noise 64px/LDR_LLL1_42.png
+- Packages/com.unity.postprocessing/PostProcessing/Textures/Blue Noise 64px/LDR_LLL1_6.png
+- Packages/com.unity.postprocessing/PostProcessing/Textures/Blue Noise 64px/LDR_LLL1_29.png
+- Assets/Oculus/SampleFramework/Usage/HandsTrainExample/Textures/XingLight.png
+- Assets/Oculus/SampleFramework/Core/DebugUI/Textures/button.png
+- Assets/Oculus/SampleFramework/Core/DebugUI/Textures/radio_over.png
+- Assets/Materials/Logo.png
+Dependencies: []

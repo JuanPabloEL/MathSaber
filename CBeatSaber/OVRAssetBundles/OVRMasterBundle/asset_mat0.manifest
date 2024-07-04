@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 561525911
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 874090a78586936b16d7a36316261736
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 22357172b8cea85847937e8f62d0c077
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Materials/Red.mat
+- Assets/Materials/New Material.mat
+- Assets/Materials/Blue.mat
+- Assets/Oculus/SampleFramework/Core/CustomHands/Materials/Hands_solid.mat
+- Assets/Oculus/SampleFramework/Usage/HandsTrainExample/Materials/XingLightMaterial.mat
+- Assets/Materials/Black.mat
+- Assets/Oculus/SampleFramework/Usage/HandsTrainExample/Materials/SkyboxForLightbaking.mat
+Dependencies:
+- D:/CBeatSaber/CBeatSaber/OVRAssetBundles/OVRMasterBundle/asset_png0
+- D:/CBeatSaber/CBeatSaber/OVRAssetBundles/OVRMasterBundle/asset_shader0

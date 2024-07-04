@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1301763656
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c15a4905f9031a48f1a45bc340d92eaa
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Sounds/TheFatRat - Unity.mp3
+Dependencies: []
